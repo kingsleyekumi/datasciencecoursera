@@ -1,8 +1,8 @@
 ---
-title: "Helloword.md"
+title: "Helloworld.md"
 author: "Kingsley Ekumi"
 date: "12/1/2020"
-output: word_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
